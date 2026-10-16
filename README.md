@@ -51,7 +51,7 @@ View credential portfolios on
 
 I'm always happy to connect 🤝 with people in tech around opportunities, collaboration, or simply exchanging ideas.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/rohit-moholkar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/rohitmoholkar-/)
 [![Email](https://img.shields.io/badge/Email-rohitmoholkar2025%40gmail.com-red?logo=gmail)](mailto:rohitmoholkar2025@gmail.com)
 [![X](https://img.shields.io/badge/X-Follow-black?logo=x)](https://x.com/rohit_moholkar)
 
