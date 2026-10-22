@@ -12,7 +12,7 @@
 - 💻 Proficient in SQL querying and Python for EDA and machine learning
 - 🗄️ Comfortable working with both relational (Oracle, MySQL, SQL Server) and NoSQL (DynamoDB) databases
 - ☁️ Hands-on work with cloud platforms (Fabric and AWS) to build data engineering and analytics workflows
-- 🏅 Backed by 6 certifications, including Microsoft Power BI (PL-300), Oracle Database SQL (1Z0-071), Databricks Data Analyst Associate, and CompTIA Data+ (DA0-002), alongside Data Analytics credentials from Google and Cisco.
+- 🏅 Backed by 6 certifications, including Microsoft Power BI (PL-300), Oracle Database SQL (1Z0-071), CompTIA Data+ (DA0-002), and Databricks Data Analyst Associate, alongside Data Analytics credentials from Google and Cisco.
 
 --- 
 
