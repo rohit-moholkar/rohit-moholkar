@@ -7,12 +7,12 @@
 ### About Me
 
 - 🎓 Master's in Data Analytics from Dublin Business School, Ireland
-- 💼 3 years of experience developing and delivering end-to-end analytics and BI solutions across startups, a mid-sized enterprise, and freelance client environments
-- 📊 Core strengths in SQL and Power BI (Power Query → data modeling → DAX → data visualization → Service)
+- 💼 3 years of experience developing and delivering end-to-end analytics and BI solutions across startups, a mid-sized enterprise, and freelance engagements
+- 📊 Core expertise in Power BI (Power Query → Data Modeling → DAX → Interactive & Paginated Reporting → Power BI Service)
+- 💻 Proficient in SQL querying and Python for EDA and machine learning
 - 🗄️ Comfortable working with both relational (Oracle, MySQL, SQL Server) and NoSQL (DynamoDB) databases
-- 🐍 Proficient in Python for data extraction, cleaning, transformation, EDA, and machine learning
-- ☁️ Hands-on exposure to cloud platforms including Fabric, Databricks, and AWS for building analytical workflows
-- 🏅 Backed by 6 industry-recognized certifications from Microsoft, Oracle, Databricks, CompTIA, Google, and Cisco
+- ☁️ Hands-on work with cloud platforms (Fabric and AWS) to build data engineering and analytics workflows
+- 🏅 Backed by 6 certifications, including Microsoft Power BI (PL-300), Oracle Database SQL (1Z0-071), Databricks Data Analyst Associate, and CompTIA Data+ (DA0-002), alongside Data Analytics credentials from Google and Cisco.
 
 --- 
 
