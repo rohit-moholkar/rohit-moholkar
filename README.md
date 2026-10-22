@@ -49,7 +49,7 @@ View credential portfolios on
 
 ### Connect
 
-I'm always happy to connect 🤝 with people in tech around opportunities, collaboration, or simply exchanging ideas.
+I’m always happy to connect 🤝 with fellow professionals, exchange ideas, and learn from different perspectives.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/rohitmoholkar-/)
 [![Email](https://img.shields.io/badge/Email-rohitmoholkar2025%40gmail.com-red?logo=gmail)](mailto:rohitmoholkar2025@gmail.com)
