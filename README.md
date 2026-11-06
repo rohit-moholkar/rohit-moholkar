@@ -7,7 +7,7 @@
 ### About Me
 
 - 🎓 Master's in Data Analytics from Dublin Business School, Ireland
-- 💼 3 years of experience developing and delivering end-to-end analytics and BI solutions across startups, a mid-sized enterprise, and freelance engagements
+- 💼 2+ years of experience developing and delivering end-to-end analytics and BI solutions across startups, a mid-sized enterprise, and freelance engagements
 - 📊 Core expertise in Power BI (Power Query → Data Modeling → DAX → Interactive & Paginated Reporting → Power BI Service)
 - 💻 Proficient in SQL querying and Python for EDA and machine learning
 - 🗄️ Comfortable working with both relational (Oracle, MySQL, SQL Server) and NoSQL (DynamoDB) databases
